@@ -26,7 +26,7 @@ or make sure you have the following packages installed:
 
 2. Extract and preprocess data set
 
-Set `data_set` to `liar_dataset` or `FakeNewsNet`((https://github.com/KaiDMML/FakeNewsNet).
+Set `data_set` to `liar_dataset` or `FakeNewsNet`(https://github.com/KaiDMML/FakeNewsNet).
 If you would like to fine tune BERT, set `with_bert_finetuning = True` in `extract_data.py`. 
 
 ```
@@ -46,6 +46,5 @@ python extract_data.py
 python main.py
 ```
 
-Once complete, a plot of training loss in the K-fold cross validation is generated in `loss.png`. Example:
-![](https://github.com/v-raina/GNN_Fake_News_Detection/blob/main/loss.png?raw=true)
+Once complete, a plot of training loss in the K-fold cross validation is generated in `loss.png`.
 
