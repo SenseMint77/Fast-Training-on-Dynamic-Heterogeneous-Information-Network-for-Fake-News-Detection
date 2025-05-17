@@ -1,4 +1,4 @@
-# GNN_Fake_News_Detection
+# Fast_Training_on_Dynamic_Heterogeneous_Information_Network_for_Fake_News_Detection
 
 1. Install packages from root with conda. 
 
