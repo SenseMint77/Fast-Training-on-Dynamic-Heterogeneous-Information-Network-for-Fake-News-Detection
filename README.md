@@ -26,7 +26,7 @@ or make sure you have the following packages installed:
 
 2. Extract and preprocess data set
 
-Set `data_set` to `liar_dataset` or `FakeNewsNet`
+Set `data_set` to `liar_dataset` or `FakeNewsNet`((https://github.com/KaiDMML/FakeNewsNet).
 If you would like to fine tune BERT, set `with_bert_finetuning = True` in `extract_data.py`. 
 
 ```
